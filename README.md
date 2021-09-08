@@ -1,4 +1,4 @@
-# Github Auto Commiter
+# Github Auto Committer
 
 Automatically commit your git directory with this application.
 
