@@ -6,7 +6,7 @@ Automatically commit your git directory with this application.
 
 Download the .exe file and place it in your git initialized folder. It will automatically commit your work every 60 minutes.
 ## Working Screenshots
-<img src="assets/ss1">
+<img href="assets/ss1">
 ## Contributing
 Pull requests are always welcome. TIA <3
 
